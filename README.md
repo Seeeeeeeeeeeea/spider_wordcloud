@@ -22,7 +22,7 @@ spider_wordcloud/
 ├─ spider_wordcloud.py    # 主程序文件
 ├─ txt_data/              # 爬取文本与词云图片保存目录
 ├─ cloud.png              # 云朵形状词云的mask图片
-├─ requirements.txt       # 项目说明文档
+├─ requirements.txt       # 项目配置文档
 └─ README.md              # 项目说明文档
 ```
 
